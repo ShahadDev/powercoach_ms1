@@ -351,6 +351,10 @@ margin: 0!important;
   padding: 1rem;
 }
 
+.image-fluid {
+  width: 100%;
+  margin-bottom: 0 auto;
+}
 
 /* Media Queries for form */
 /* Obtained from https://bootstrapstudio.io */
