@@ -1,5 +1,5 @@
 # powercoach milestone 1 project
-[Visit website here] (https://shahaddev.github.io/powercoach_ms1/)
+![Visit website here] (https://shahaddev.github.io/powercoach_ms1/)
 
 ![responsive-look](https://user-images.githubusercontent.com/93746419/140823491-54e1ec6d-395f-4792-9af7-f4708b5571cd.png)
 
