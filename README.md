@@ -1,7 +1,8 @@
 # powercoach_ms1
 [Visit website here] (https://shahaddev.github.io/powercoach_ms1/)
 
-![] (assets/images/image-folder/responsive-look.png)
+![responsive-look](https://user-images.githubusercontent.com/93746419/140823491-54e1ec6d-395f-4792-9af7-f4708b5571cd.png)
+
 
 #Objectives/Business case
 
@@ -94,7 +95,7 @@ This flow kept a conscious effort in maintaining what a normal enquiry to a coac
 ---
 ### **Skeleton**
 
-[Wireframe] (assets/images/wireframe/high-level-figma-wireframe.png)
+![wireframe-figma](https://user-images.githubusercontent.com/93746419/140823861-1fa3b5bb-7e1a-4ad2-831d-317dab66d33d.png)
 
 Please note the actual website has changed slightly from these wireframes. These are high level and with more time the would be more define and would have more details
 
@@ -209,7 +210,7 @@ Users can navigate directly to the form and contact the team.
 
 Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. I achieved a low-performance score initially, as you can see below:
 
-![](assets/images/test results/lighthouse-results.png)
+![lighthouse-results](https://user-images.githubusercontent.com/93746419/140823279-24f41826-771f-40dc-94d7-b0b50abb9f31.png)
 
 I achieved fantastic results by minimising the amount of data needed on the page, Furthermore, I added the 'rel="noreferrer"' to all external links as this is considered best practice. 
 I have nearly achieved 90 across the board.
@@ -290,6 +291,8 @@ The following websites/articles were used for research and guidance:
 ## Acknowledgements
 
 I would like to thank my course mentor Guido Cecilio for his support and guidance throughout the course of the project.
+
+Stackoverflow for it's gems of knowledge.
 
 ---
 
